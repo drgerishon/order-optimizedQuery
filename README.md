@@ -1,4 +1,4 @@
-# run npm i to install "pg" for postgres
+# run npm install : to install "pg" dependency for postgres
 
 # run index.js file: node index.js
 
